@@ -29,7 +29,7 @@
     "eslint": "0.10.2",
     "eslint-plugin-nodeca": "^1.0.0",
     "istanbul": "*",
-    "markdown-it": "^4.0.0",
+    "markdown-it": "^11.0.0",
     "markdown-it-testgen": "~0.1.0",
     "mocha": "*",
     "uglify-js": "*"
